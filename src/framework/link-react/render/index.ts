@@ -1,0 +1,1 @@
+export { getHtmlComponent } from './html';
