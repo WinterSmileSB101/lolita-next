@@ -32,7 +32,7 @@
     "fastify-metrics": "^5.0.1",
     "http": "0.0.1-security",
     "https": "^1.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "nestjs": "0.0.1",
     "path": "^0.12.7",
     "path-to-regexp": "^6.1.0",
